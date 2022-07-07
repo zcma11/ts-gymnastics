@@ -45,4 +45,4 @@ type CreateArray<
 
 type MinusOne<T extends number> = GetLength<Decrease<Bit<T>>>
 
-type a = MinusOne<1011>
+// type a = MinusOne<1011>
